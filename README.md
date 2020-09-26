@@ -36,3 +36,6 @@ Some of these operations are sometimes intended to be performed identically on m
 - A device in maintenance mode periodically queries the maintenance jobs
 - After the jobs have been carried out, the device sends a list of results back to the control
 - The maintenance module delegates tasks to other modules that are intended for the respective purpose: the processing of received files and the generation of files to be sent
+
+### UML Diagram
+![UML Diagram](remote-maintenance.png "UML Diagram")
