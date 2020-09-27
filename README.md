@@ -38,4 +38,5 @@ Some of these operations are sometimes intended to be performed identically on m
 - The maintenance module delegates tasks to other modules that are intended for the respective purpose: the processing of received files and the generation of files to be sent
 
 ### UML Diagram
+The following diagram shows the components Maintenance Module and Maintenance Control in their environment and the information flows between them.
 ![UML Diagram](remote-maintenance.png "UML Diagram")
